@@ -1,2 +1,2 @@
 # Tugas_OpenSource
-Untuk belajar 
+Project UAS Mata Kuliah Open Source
